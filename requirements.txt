@@ -8,7 +8,7 @@ safetensors>=0.3.0
 # xformers è opzionale e causa errori su macOS; installalo solo se hai torch>=2.7
 
 # Video generation
-ffmpeg-python>=0.5.0
+ffmpeg-python>=0.1.19
 
 # Computer Vision
 opencv-python>=4.7.0
